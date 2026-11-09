@@ -16,3 +16,12 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/arju99153-byte).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## Little Acre
+
+A cozy, touch-friendly pocket farm built with plain HTML, CSS, and JavaScript. Tend a 3×3 garden, rotate through four seasons, plant seasonal crops, water them, harvest for coins and seeds, and let the garden save automatically in your browser.
+
+### Play
+
+Open `index.html` in a browser, or serve this folder with any static web server. Choose a seed, tap an empty bed to plant, switch to **Water**, and tend it before **End the day**. Once a crop is ripe, choose **Harvest** to collect its reward. Tap a seed packet with no stock to buy more. Progress is saved locally on your device.
+
